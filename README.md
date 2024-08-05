@@ -18,7 +18,7 @@ Clean and encode the dataset, scale features, and select relevant attributes.
 - Apply dropout for regularization.
 
 **Evaluation:**  
-- Metrics: Accuracy to determine model perfomance.
+- *Metrics:* Accuracy to determine model perfomance.
 
 **Tools:**  
 - *Language:* Python
